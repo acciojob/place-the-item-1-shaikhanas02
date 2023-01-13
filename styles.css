@@ -1,6 +1,6 @@
 holder {
- display: block ;
- flex-wrap: wrap;
+ display: flex ;
+ flex-wrap: block;
  justify-content: space-between;}
  .item {
  width: 100px;
