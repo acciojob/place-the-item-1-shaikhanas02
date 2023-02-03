@@ -1,7 +1,8 @@
-holder {
+.holder{
  display: flex ;
- flex-wrap: block;
- justify-content: space-between;}
+flex-direction: row ;
+ justify-content: space-between;
+}
  .item {
  width: 100px;
  height: 100px;
